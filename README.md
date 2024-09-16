@@ -1,0 +1,1 @@
+# Boilerplate and Starter for Next.js 14+, Tailwind CSS, and TypeScript.
